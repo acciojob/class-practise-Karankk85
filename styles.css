@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+/* Styling for Paragraph 1 and Paragraph 3 */
+.selector {
+    color: #00f; /* Blue font color */
+    background-color: #eee; /* Light gray background */
+    font-family: Arial, sans-serif; /* Arial font */
+    font-size: 20px; /* Font size */
+    padding: 10px;
+}
